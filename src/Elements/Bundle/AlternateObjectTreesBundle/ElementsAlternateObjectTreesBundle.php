@@ -88,7 +88,7 @@ class ElementsAlternateObjectTreesBundle extends AbstractPimcoreBundle
      *
      * @return string
      */
-    protected function getComposerPackageName()
+    protected function getComposerPackageName() : string
     {
         return 'elements/alternate-object-trees';
     }
