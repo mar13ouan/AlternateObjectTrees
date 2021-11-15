@@ -4,7 +4,7 @@
   "description": "Pimcore Bundle for defining alternate object trees based on data object attributes",
   "require": {
     "ext-json": "*",
-    "pimcore/pimcore": "6.*"
+    "pimcore/pimcore": "*"
   },
   "autoload": {
     "psr-4": {
